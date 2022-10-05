@@ -12,8 +12,9 @@ In this project, the person can roam around within the scene (like the VRChat), 
 * Packages: Oculus Integration Toolkit, Oculus Interaction SDK
 
 ## Recording of running PlayerController in Quest2
-The`./Recordings` folder contains several recordings during the game play, like as shown below,
-<p align="center"><img src="https://github.com/saha0073/PlayerController-with-Oculus-Interaction-SDK/blob/main/Recordings/PlayerController10sec.gif" style="width:80%"\></p>
+The`./Recordings` folder contains several recordings during the game play. You can check the following youtube video which shows a demo of running the application in Oculus Quest 2
+
+[![Watch the video](https://yt-embed.live/embed?v=rboEw4p-35U)](https://www.youtube.com/watch?v=rboEw4p-35U "Watch the video")
 
 ## Available features in this Interaction SDK repo
 * Player Movement
